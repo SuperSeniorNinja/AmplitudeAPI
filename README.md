@@ -1,0 +1,2 @@
+# AmplitudeAPI
+Amplitude API library
